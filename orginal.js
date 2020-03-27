@@ -1,0 +1,1 @@
+{"status": "Nasaki", "pt66": "//pastebin.com/raw/4vU9yWW7"}
